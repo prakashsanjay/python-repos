@@ -1,6 +1,4 @@
 from unittest import result
-
-
 # write a simple program in python which can convert weight in pound into kg
 
 weight_lbs=input("weight in pound : ")
