@@ -10,5 +10,8 @@ else:
 
 print (f"Down Payment ${down_payment}")
 
+# suppose price of a house is $1M if you have good credit you need to give 10% 
+# down payment else you need to give 20% down payment
+
 
 
